@@ -1,8 +1,9 @@
 <h1 align="center">
 
-<img src="https://github.com/ali-chamas/ali-chamas/assets/130770529/3541cff7-6998-4b99-9fdb-82cc46516207" />
+<img src="https://github.com/ali-chamas/ali-chamas/assets/130770529/2b98834a-5020-4a3b-b1fc-06283b28d70f" />
 </h1>
-<h3 align="center">A passionate software developer from Lebanon</h3>
+
+
 
 <br/>
 <div align="center"> 
