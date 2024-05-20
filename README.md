@@ -1,11 +1,14 @@
 <h1 align="center">
 
-<img src="https://github.com/ali-chamas/ali-chamas/assets/130770529/2b98834a-5020-4a3b-b1fc-06283b28d70f" />
+👋 Hi There, I'm Ali
 </h1>
 
+<h3 align="center">A Software Developer From Lebanon</h3>
 
 
 <br/>
+
+<h3 align="center">My Socials:</h3>
 <div align="center"> 
   <a href="mailto:ali.h.shamass@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
