@@ -3,7 +3,7 @@
 👋 Hi There, I'm Ali
 </h1>
 
-<h3 align="center">A Software Developer From Lebanon</h3>
+<h3 align="center">A Software Engineer From Lebanon</h3>
 
 
 <br/>
