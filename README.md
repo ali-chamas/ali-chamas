@@ -25,7 +25,7 @@ Building scalable products, real-time applications, and AI-integrated systems
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Full Stack Engineer with experience building real-world products in a fast-paced startup environment.<br/><br/>
+Full Stack Engineer building real-world products in a fast-paced startup environment.<br/><br/>
 
 I work across frontend, backend, and infrastructure — building scalable systems, real-time applications,<br/>
 and fintech-related tools. I also integrate AI workflows to automate and enhance development processes.<br/><br/>
